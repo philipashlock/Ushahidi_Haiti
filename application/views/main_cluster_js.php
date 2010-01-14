@@ -334,7 +334,7 @@
 						} else {
 							feature_icon = feature.attributes.icon;
 							if (feature_icon!="") {
-								return 8;
+								return 10;
 							} else {
 								return <?php echo $marker_radius; ?> * 1.6;
 							}
