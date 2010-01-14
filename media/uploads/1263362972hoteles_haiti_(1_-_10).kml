@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>hoteles haiti (1 - 10)</name>
+	<Style id="empty_style_for_root_folder">
+	</Style>
+	<Folder>
+		<name>&lt;div style=&quot;background-color:#FFF8DD&quot;&gt;Enlaces patrocinados&lt;/div&gt;</name>
+		<open>1</open>
+		<Snippet maxLines="4"><![CDATA[<html><div style="background-color:#FFF8DD"><a href="http://www.google.com/aclk?sa=L&amp;ai=CtTIvEl5NS7-2KJG88gTF_9COC7XBsUPvjsy6BeHow5cBCAAQASDu3KgPUISh4p3______wFgzQLIAQGqBBxP0NVy6s-iMkp54AwdIGLFeukMufLcWF3liDL0&amp;sig=AGiWqtwwOAdnbn2JkIz1ucD705RVO5AYdw&amp;q=http://www.tripadvisor.es/SmartDeals-g147306-m11215-Haiti-Hotel-Deals.html%3Fsupci%3D31945104%26suppm%3D%26supai%3D1370760243%26supsc%3Ds">Alojamiento &lt;b&gt;Haiti&lt;/b&gt;</a></div><div style="background-color:#FFF8DD;color:#008000">www.TripAdvisor.es</div><nobr><div style="background-color:#FFF8DD">Encuentre ofertas. Lea opiniones de</div><div style="background-color:#FFF8DD">viajeros como usted.</div></nobr></html>]]></Snippet>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Folder>
+	<Placemark>
+		<name>Villa Creole Hotel  S A</name>
+		<address>Port Au Prince&lt;br/&gt;Petionville 6110, Haiti</address>
+		<Snippet maxLines="2"><![CDATA[Port Au Prince, Petionville 6110, Haiti<br/>(0)22 57 15 70]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/A.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/A-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/A.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/A-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="200"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=10974843124794528926&q=hoteles+haiti&hl=es&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><font color="#808080"></font></td></tr><tr><td>Port Au Prince<br/>Petionville 6110, Haiti<br/>(0)22 57 15 70<br/><a href="http://www.villacreole.com/" style="color:#008000">villacreole.com</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Villa Creole Hotel  S A</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-72.28214,18.51884,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sosua Bay Hotel</name>
+		<address>Sosua&lt;br/&gt;Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Sosua, Dominican Republic<br/>(809) 571-4000]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/B.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/B-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/B.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/B-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=8340827259407107848&q=hoteles+haiti&hl=es&cd=1&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 3.8 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-off.gif" alt=""/>&nbsp;<font color="#808080">50 comentarios</font></td></tr><tr><td>Sosua<br/>Dominican Republic<br/>(809) 571-4000<br/><a href="http://www.starzresorts.com/" style="color:#008000">starzresorts.com</a></td><td><a href="/maps/place?cid=8340827259407107848&amp;q=hoteles+haiti&amp;hl=es&amp;cd=2&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://static.panoramio.com/photos/iw-thumbnail/9550960.jpg"/></a></td></tr><tr><td colspan="2"><br/><b>¡Un lugar fantástico!</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 4.5 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-half.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Sabine&#32; - &#32;31 May 2009</font><br/>El <b>Hotel</b> Sosua Bay localizado en Sosua estaba impecablemente limpio de acuerdo con Sabine. Para registrarse en el <b>hotel</b> el proceso es aceptable. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.holidaycheck.es/detail.php%3Fch%3Dhb%26typ%3D2%26id%3D2464967%26agent%3Dhc.gl.00.01%26originalID%3D1347626%26intTrans%3D1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7nLAECk072V5uR4Zi2KISwwDxdFAw"><font color="#008000">Obtener más información de holidaycheck.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Medianito para 3 semanas</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Iris&#32; - &#32;13 Abr 2009</font><br/>La impresión de Iris fue que la limpieza es más bien mala en <b>Hotel</b> Sosua Bay. El <b>hotel</b> reacciona ante las reclamaciones de forma más bien mala. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.holidaycheck.es/detail.php%3Fch%3Dhb%26typ%3D2%26id%3D2464968%26agent%3Dhc.gl.00.01%26originalID%3D1298755%26intTrans%3D1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7nHJ0zuhvYiprzXEg-Mkm2hAY3aCQ"><font color="#008000">Obtener más información de holidaycheck.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Hotel espléndido</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 4.5 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-half.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Manfred&#32; - &#32;12 Abr 2009</font><br/>Manfred afirma estar muy satisfecho del estado general del <b>Hotel</b> Sosua Bay. Para salir de excursión por la zona, ofrece buenas opciones. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.holidaycheck.es/detail.php%3Fch%3Dhb%26typ%3D2%26id%3D2464969%26agent%3Dhc.gl.00.01%26originalID%3D1298350%26intTrans%3D1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7n51I8AWHRpKOGh5WE8kHqGczj4qw"><font color="#008000">Obtener más información de holidaycheck.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=8340827259407107848&q=hoteles+haiti&hl=es&cd=1&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 50 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Sosua Bay Hotel+Hotel+Hotel+Hoteles+Hotel/Accommodation+Hotels - Hotel+Business+Hotels+Hotels+All-Inclusive+Motels &amp;amp; Hotels+Travel - Hotels+Hotels - Resort</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-70.51736099999999,19.762104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>H10 Ocean Blue Golf &amp; Beach Resort (5 estrellas)</name>
+		<address>Carretera Arena Gorda&lt;br/&gt;Punta Cana, Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Carretera Arena Gorda, Punta Cana, Dominican Republic<br/>]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/C.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/C-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/C.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/C-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=18221493093698134926&q=hoteles+haiti&hl=es&cd=2&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><font color="#808080">3 comentarios</font></td></tr><tr><td>Carretera Arena Gorda<br/>Punta Cana, Dominican Republic<br/><a href="http://es.ulises.com/hoteles/f/republica_dominicana/la_altagracia/hotel_h10_ocean_blue_golf_beach_resort-punta_cana" style="color:#008000">ulises.com</a></td></tr><tr><td colspan="2"><br/><b>El hotel ocean blue resort es uno...</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;julian valentin diaz de Neyba,&#32; - &#32;20 Ene 2009</font><br/> de los hoteles más grandes y hermosos del país. Las personas de personal es lo más preparado que se encuentra en nuestro país, tiene lindas playas, la piscina mas grande de todo el país y hermosa en <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://es.ulises.com/hoteles/f/republica_dominicana/la_altagracia/hotel_h10_ocean_blue_golf_beach_resort-punta_cana-opiniones&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7lv9VI02zcyyMiwKrSDCk663mHy8A"><font color="#008000">Obtener más información de ulises.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>H10 Ocean Blue Golf & Beach Resort...</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080"></font><br/>Con la elegancia de las palmeras balanceándose con la brisa y la belleza de las olas acariciando la arena blanca emerge el Ocean Blue Golf &amp; Beach Resort. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://es.ulises.com/hoteles/f/republica_dominicana/la_altagracia/hotel_h10_ocean_blue_golf_beach_resort-punta_cana&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7le90SSxoODbqzcLLB2rBGUhB4veg"><font color="#008000">Obtener más información de ulises.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>H10 Ocean Blue Golf & Beach Resort (5 stars)</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080"></font><br/>With the grace of the palm trees dancing to the rhythm of the breeze and the elegance of the waves caressing the white sand, emerges Ocean Blue Golf &amp; Beach <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.tripox.co.uk/hotels/f/dominican_republic/la_altagracia/h10_ocean_blue_golf_beach_resort_hotel-punta_cana&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mZSEQ04y2yr5kF5J5ruWcDYxWoCQ"><font color="#008000">Obtener más información de tripox.co.uk &raquo;</font></a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>H10 Ocean Blue Golf &amp;amp; Beach Resort (5 estrellas)+Hoteles en Punta Cana+Hotels in Punta Cana</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-71.296089,18.910877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Casa Marina Reef Hotel Sosua</name>
+		<address>Sosua-puerto Plata&lt;br/&gt;Sosua, Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Sosua-puerto Plata, Sosua, Dominican Republic<br/>]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/D.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/D-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/D.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/D-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=15515949572259159424&q=hoteles+haiti&hl=es&cd=3&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 12.6 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<font color="#808080">6 comentarios</font></td></tr><tr><td>Sosua-puerto Plata<br/>Sosua, Dominican Republic<br/><a href="http://www.quehoteles.com/hotel-de-sosua-Amhsa-Casa-Marina-Beach-2C12P94D122Z10558EF.htm" style="color:#008000">quehoteles.com</a></td><td><a href="/maps/place?cid=15515949572259159424&amp;q=hoteles+haiti&amp;hl=es&amp;cd=4&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://static.panoramio.com/photos/iw-thumbnail/3165095.jpg"/></a></td></tr><tr><td colspan="2"><br/><b>Amhsa Casa Marina Beach</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;23 Nov 2007</font><br/>Este atractivo <b>hotel</b> reúne un edificio principal y diez edificios anexos, cada uno de tres plantas y con un total de 300 habitaciones. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.marsans.es/viajes/hotel/hotelHomeAction.do%3FhotelId%3D4996%26provider%3D2%26city%3D8355%26listMethod%3Ddetails&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7ku7Z9vbSKBrQFe4_wpxU8u6l3VUQ"><font color="#008000">Obtener más información de marsans.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Casa Marina</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 4.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;22 Sep 2008</font><br/>Food was 5 Star Service 5 star Grounds 5 star Drinks 4 star...only because they were a little warm. Room 3 Star...Air conditioning never got cold. <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.igougo.com/lodging-reviews-b186667-Puerto_Plata-Casa_Marina_Beach_and_Reef_All_Inclusive-_an_Amhsa_Marina_Resort.html&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mL9L3TuZXpV2xJWKbu0DHdRgk0mQ"><font color="#008000">Obtener más información de igougo.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Great Property, Good Location, Fair Food,...</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 4.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;9 May 2008</font><br/>We stayed at the Casa Marina Resort (Beach Side). The property of the resort is beautiful, from the pools, to the beach, to the landscaping, to the palm <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.igougo.com/lodging-reviews-b186667-Puerto_Plata-Casa_Marina_Beach_and_Reef_All_Inclusive-_an_Amhsa_Marina_Resort.html&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mL9L3TuZXpV2xJWKbu0DHdRgk0mQ"><font color="#008000">Obtener más información de igougo.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=15515949572259159424&q=hoteles+haiti&hl=es&cd=3&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 6 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Casa Marina Reef Hotel Sosua+Hotel/Accommodation+Hotel+Hotel+Hoteles+Motels &amp;amp; Hotels+Travel - Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-70.51600999999999,19.74454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sofitel Nicolas de Ovando</name>
+		<address>Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Dominican Republic<br/>(809) 685-9955]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/E.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/E-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/E.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/E-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=3614941025516793635&q=hoteles+haiti&hl=es&cd=4&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 9.4 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<font color="#808080">32 comentarios</font></td></tr><tr><td>Dominican Republic<br/>(809) 685-9955<br/><a href="http://www.sofitel.com/" style="color:#008000">sofitel.com</a></td><td><a href="/maps/place?cid=3614941025516793635&amp;q=hoteles+haiti&amp;hl=es&amp;cd=5&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://static.panoramio.com/photos/iw-thumbnail/2408527.jpg"/></a></td></tr><tr><td colspan="2"><br/><b>Sofitel Nicolas de Ovando</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;23 Nov 2007</font><br/>Este lujoso <b>hotel</b>, inaugurado en el año 2003, está ubicado en un edificio del siglo XVI y cuenta con 101 habitaciones y tres suites repartidas en tres <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.marsans.es/viajes/hotel/hotelHomeAction.do%3FhotelId%3D5412%26provider%3D2%26city%3D1812%26listMethod%3Ddetails&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7l2O7vBFMUkL6qkZxildImLb9fEww"><font color="#008000">Obtener más información de marsans.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Lujo e Historia en Santo Domingo</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 5.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;chica7&#32; - &#32;18 Oct 2007</font><br/>Sin dudarlo, el Sofitel Nicolás de Ovando es la mejor opción hotelera de la capital Dominicana: bien situado, céntrico, en la zona turística, <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.trivago.es/santo-domingo-93572/hotel/hostal-nicolas-de-ovando-santo-domingo-ex-sofitel-101505/opinion-o88676&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mfET6NVWwgVnei7MabdAKHuB6Eyw"><font color="#008000">Obtener más información de trivago.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Este elegante hotel de lujo se encuentra...</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;GIATA mbh&#32; - &#32;2 Ene 2007</font><br/> en el corazón de la ciudad colonial de Santo Ubicación Este elegante <b>hotel</b> de lujo se encuentra en el corazón de la ciudad colonial de Santo Domingo, a unos 30 kilómetros del aeropuerto Las Américas, <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://local.myhotelvideo.com/local/index.php%3Fgid%3D38260%26lang%3Des%26mode%3Dtext%26b%3D2077&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7kPqtnGN8XiEbSNmm_K4E_NwT5YvQ"><font color="#008000">Obtener más información de myhotelvideo.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=3614941025516793635&q=hoteles+haiti&hl=es&cd=4&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 32 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Sofitel Nicolas de Ovando+Hotel+Hotel+Hoteles+Hotels - Hotel+Business+Hotels+Hotels+Hotels 5-stars+Motels &amp;amp; Hotels+Travel - Hotels+Inns+Lodge+Lodging+Resorts+Travel+Vacation+Travel - Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-69.882555,18.474849,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hotel Ibo Lele</name>
+		<address>Route Ibo Lélé&lt;br/&gt;Port-au-Prince, Haiti</address>
+		<Snippet maxLines="2"><![CDATA[Route Ibo Lélé, Port-au-Prince, Haiti<br/>(0)257 5668]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/F.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/F-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/F.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/F-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="200"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=6854069002656720041&q=hoteles+haiti&hl=es&cd=5&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><font color="#808080"></font></td></tr><tr><td>Route Ibo Lélé<br/>Port-au-Prince, Haiti<br/>(0)257 5668<br/><a href="http://hotels-haiti-hi.globalhotelindex.com/" style="color:#008000">globalhotelindex.com</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Hotel Ibo Lele</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-72.28373000000001,18.505529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hotel Santo Domingo</name>
+		<address>George Washington Esq.abraham Licoln&lt;br/&gt;Santo Domingo, Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[George Washington Esq.abraham Licoln, Santo Domingo, Dominican Republic<br/>]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/G.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/G-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/G.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/G-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=5833478178449984993&q=hoteles+haiti&hl=es&cd=6&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 3.7 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-half.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-off.gif" alt=""/>&nbsp;<font color="#808080">18 comentarios</font></td></tr><tr><td>George Washington Esq.abraham Licoln<br/>Santo Domingo, Dominican Republic<br/><a href="http://www.wego.com/hotels/dominican-republic/santo-domingo/melia-santo-domingo" style="color:#008000">wego.com</a></td><td><a href="/maps/place?cid=5833478178449984993&amp;q=hoteles+haiti&amp;hl=es&amp;cd=7&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://static.panoramio.com/photos/iw-thumbnail/7927307.jpg"/></a></td></tr><tr><td colspan="2"><br/><b>¡Un lugar fantástico!</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 4.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Tamara&#32; - &#32;3 Abr 2008</font><br/>En el <b>Hotel</b> Santo Domingo en Santo Domingo la limpieza era prácticamente perfecta según la opinión de Tamara. Muy escasas las opciones de excursiones en <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.holidaycheck.es/detail.php%3Fch%3Dhb%26typ%3D2%26id%3D1328486%26agent%3Dhc.gl.00.01%26originalID%3D966657%26intTrans%3D1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7ksi8TZZUodChLAt9XDsYwG0lqQhg"><font color="#008000">Obtener más información de holidaycheck.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>¿Hotel Santo Domingo? Bueno</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.5 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-half.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Felix.&#32; - &#32;23 Mar 2008</font><br/>En el <b>Hotel</b> Santo Domingo en Santo Domingo la limpieza era prácticamente perfecta según la opinión de Felix.. Salir de excursión por la zona ofrece buenas <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.holidaycheck.es/detail.php%3Fch%3Dhb%26typ%3D2%26id%3D1328487%26agent%3Dhc.gl.00.01%26originalID%3D958260%26intTrans%3D1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mYKSr9tSkznMIrTgf7jX1CO3jsIw"><font color="#008000">Obtener más información de holidaycheck.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Santo Domingo</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;23 Nov 2007</font><br/>Este expléndido <b>hotel</b> dispone de tres plantas y un total de 220 habitaciones. Sus huéspedes tienen a disposición el servicio de cambio de divisa y salas de <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.marsans.es/viajes/hotel/hotelHomeAction.do%3FhotelId%3D5106%26provider%3D2%26city%3D1812%26listMethod%3Ddetails&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7m2lOrRtuyGQKDHtThsW4iRi7EcxQ"><font color="#008000">Obtener más información de marsans.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=5833478178449984993&q=hoteles+haiti&hl=es&cd=6&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 18 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Hotel Santo Domingo+Hotel+Hotel+Hoteles+Motels &amp;amp; Hotels+Sol Melia Hotels+Travel - Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-69.94150000000001,18.4361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Melia Santo Domingo Hotel</name>
+		<address>Santo Domingo&lt;br/&gt;Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Santo Domingo, Dominican Republic<br/>(809) 221-6666]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/H.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/H-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/H.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/H-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=6206152484100871791&q=hoteles+haiti&hl=es&cd=7&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 3.6 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-half.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-off.gif" alt=""/>&nbsp;<font color="#808080">16 comentarios</font></td></tr><tr><td>Santo Domingo<br/>Dominican Republic<br/>(809) 221-6666<br/><a href="http://www.solmelia.com/" style="color:#008000">solmelia.com</a></td><td><a href="/maps/place?cid=6206152484100871791&amp;q=hoteles+haiti&amp;hl=es&amp;cd=8&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://static.panoramio.com/photos/iw-thumbnail/3382105.jpg"/></a></td></tr><tr><td colspan="2"><br/><b>MELIA SANTO DOMINGO</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.</font><br/>Situacion:Centro ciudad,a 30 km del aeropuerto.Dispone de 245 habitaciones con servicio de habitaciones,aire acondicionado,banera,ducha,secador de pelo <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.viajeselcorteingles.es/viajes/vuelos_hoteles/programas/hotel_sin_fechas.asp%3Fdescripcion%3DSANTO%2520DOMINGO%26codiarea%3DSDQ%26folletoHotel%3DA09IE%26codigoHotel%3DSDQSD604%26numHabit%3D1%26numAdultos1%3D2%26copagina%3DINT%26codwebor%3DESP%26codPais%3DDO%26cadena%3DSML&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7kNZQa_gvpVsAq8cybaCjixUGqxbA"><font color="#008000">Obtener más información de viajeselcorteingles.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Gym facilities.</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 2.5 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-half.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Edwin (Solo Traveler)&#32; - &#32;9 Oct 2009</font><br/>The <b>hotel</b> has average facilities, lobby is very nice, rooms were clean but the staff was disrespectful and insolent. After agreeing with the front desk on a <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://travela.priceline.com/travelguides/hotels/Melia_Santo_Domingo_Santo_Domingo_Dominican_Republic-162410.html%3Frefid%3DPLGOOGLELOCAL%26refclickid%3DATTR_ID_162410%26reviewID%3D239018120&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7nRHt5y1R1zPLeNMUePLSvDEv2-7A"><font color="#008000">Obtener más información de priceline.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Conveniently located near historical...</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 5.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;CAlberto (Family with Young&#32; - &#32;19 Jun 2009</font><br/>Wireless internet is very good and easy to get. Food is great at the restaurant, the people at thed <b>hotel</b> are friendly, the taxi drivers outside are <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://travela.priceline.com/travelguides/hotels/Melia_Santo_Domingo_Santo_Domingo_Dominican_Republic-162410.html%3Frefid%3DPLGOOGLELOCAL%26refclickid%3DATTR_ID_162410%26reviewID%3D234693040&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7nq0b78yoeLtBVqq29tNbGEyFp7dA"><font color="#008000">Obtener más información de priceline.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=6206152484100871791&q=hoteles+haiti&hl=es&cd=7&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 16 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Melia Santo Domingo Hotel+Hoteles+Hoteles - Santo Domingo+Hotel+Hotels - Hotel+Hotel+Hotels+Business+Lodging+Travel Service+HT5+Hotels - Luxury+Hotels+Inns+Lodge+Resorts+Travel+Vacation+Motels &amp;amp; Hotels+Travel - Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-69.897916,18.462973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sosua Bay Hotel - All Inclusive</name>
+		<address>Calle Dr Alejo Martinez Nr 1&lt;br/&gt;Sosua 11111, Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Calle Dr Alejo Martinez Nr 1, Sosua 11111, Dominican Republic<br/>(809) 571-4545]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/I.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/I-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/I.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/I-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=16027574198275896398&q=hoteles+haiti&hl=es&cd=8&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><font color="#808080">18 comentarios</font></td></tr><tr><td>Calle Dr Alejo Martinez Nr 1<br/>Sosua 11111, Dominican Republic<br/>(809) 571-4545<br/><a href="http://www.starzresorts.com/" style="color:#008000">starzresorts.com</a></td><td><a href="/maps/place?cid=16027574198275896398&amp;q=hoteles+haiti&amp;hl=es&amp;cd=9&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://base.googlehosted.com/base_media?q=maps:gimg.giatamedia.com/images/3121886676/41121/43231&amp;size=3&amp;hl=es"/></a></td></tr><tr><td colspan="2"><br/><b>Victorian House</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;23 Nov 2007</font><br/>Este <b>hotel</b>, construido en 1900 y restaurado en el 2002, tiene un edificio de tres plantas y dispone de un total de 50 habitaciones. Ofrece a sus <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.marsans.es/viajes/hotel/hotelHomeAction.do%3FhotelId%3D5396%26provider%3D2%26city%3D8355%26listMethod%3Ddetails&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mQ0oxj1wRf9UMAk-PbOr7c5rfDZA"><font color="#008000">Obtener más información de marsans.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Este exclusivo hotel de playa está situado...</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;GIATA mbh&#32; - &#32;6 Sep 2006</font><br/> en una preciosa zona del Victorian Plantation Ubicación Este exclusivo <b>hotel</b> de playa está situado en una preciosa zona del Victorian Plantation House. Desde el <b>hotel</b> podrá disfrutar de unas <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://local.myhotelvideo.com/local/index.php%3Fgid%3D41121%26lang%3Des%26mode%3Dtext%26b%3D2077&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7m8FmMNvY-TDssq1WZMoA36tVhyRA"><font color="#008000">Obtener más información de myhotelvideo.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Victorian House</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;destinia.com</font><br/>Este <b>hotel</b>, construido en 1900 y restaurado en el 2002, tiene un edificio de tres plantas y dispone de un total de 50 habitaciones. Ofrece a sus <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://destinia.com/hotels/victorian-house/sosua/sosua/republica-dominicana/centroamerica---caribe/164755/es&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7lFxcmkbkSEntDkuNVFLbDYF_5MZA"><font color="#008000">Obtener más información de destinia.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=16027574198275896398&q=hoteles+haiti&hl=es&cd=8&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 18 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Sosua Bay Hotel - All Inclusive+Hotel+Hotel+Hoteles+Hotel/Accommodation+Hotels+Hotels+Motels &amp;amp; Hotels+Travel - Hotels+Reservhotels Hotels+Synxis Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-70.5166,19.7666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mercure</name>
+		<address>Dominican Republic</address>
+		<Snippet maxLines="2"><![CDATA[Dominican Republic<br/>(809) 688-5500]]></Snippet>
+		<styleUrl>#ads_in_balloon_style</styleUrl>
+		<StyleMap>
+			<Pair>
+				<key>normal</key>
+				<Style>
+					<IconStyle>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/J.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/J-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<Style>
+					<IconStyle>
+						<scale>1.3</scale>
+						<heading>0</heading>
+						<Icon>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/J.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.gstatic.com/intl/es_es/mapfiles/kml/paddle/J-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+			</Pair>
+		</StyleMap>
+		<ExtendedData>
+			<Data name="balloon_text">
+				<value><![CDATA[<table width ="250"><tr><td colspan="2"><font size="+1"><b><a href="http://maps.google.es/maps/place?cid=1366310379203798212&q=hoteles+haiti&hl=es&cd=9&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg">$[name]</a></b></font><br/><img src="http://www.google.com/images/syt-star-on.gif" alt="Clasificación: 5.4 de 5.0"/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<img src="http://www.google.com/images/syt-star-on.gif" alt=""/>&nbsp;<font color="#808080">75 comentarios</font></td></tr><tr><td>Dominican Republic<br/>(809) 688-5500<br/><a href="http://www.mercure.com/" style="color:#008000">mercure.com</a></td><td><a href="/maps/place?cid=1366310379203798212&amp;q=hoteles+haiti&amp;hl=es&amp;cd=10&amp;cad=src:ppphoto&amp;ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=5"><img src="http://base.googlehosted.com/base_media?q=maps:images.activehotels.com/images/hotel/max300/815/815306.jpg&amp;size=3&amp;hl=es"/></a></td></tr><tr><td colspan="2"><br/><b>Positiva: Que se encuentra a solo dos...</b> &#32;<img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt="Clasificación: 3.0 de 5.0"/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-on.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><img src="http://www.google.com/images/sy-star-off.gif"{BI_SPACE}}alt=""/><font color="#808080">&#32; - &#32;Persona viajando sola&#32; - &#32;22 Oct 2009</font><br/>Positiva: Que se encuentra a solo dos cuadras del centro y sobre la peatonal. Negativa: la habitación y el baño era un cuadrado elevado por un escalón, <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.booking.com/hotel/do/comercial-santo-domingo.es.html%3Faid%3D307415%3Btab%3D4&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7k8rgGp4mHiPlTo5I4oBQkU-cgZmQ"><font color="#008000">Obtener más información de booking.com &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Mercure Comercial Santo Domingo</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;3 Jul 2009</font><br/>Este <b>hotel</b> dispone de 96 habitaciones, de las cuales 2 son para huéspedes con necesidades especiales. Este <b>hotel</b> ubicado en el corazón de la zona <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.tvtrip.es/santo_domingo-hotels/mercure-comercial-santo-domingo_1&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7lMX4NWooZpKBXhnYUaKlXAnP3YZQ"><font color="#008000">Obtener más información de tvtrip.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><b>Mercure Comercial Santo Domingo</b> &#32;<font color="#808080">&#32; - &#32;No hay valoraciones disponibles.&#32; - &#32;3 Jul 2009</font><br/>Este <b>hotel</b> se halla en la zona colonial de la ciudad ya sólo 30 kms. del aeropuerto. es un punto de partida ideal para descubrir todas las atracciones de la <b>...</b> <br/><a href="http://maps.google.es/local_url?q=http://www.tvtrip.es/santo_domingo-hotels/mercure-comercial-santo-domingo&dq=hoteles+haiti&sll=18.5484,-72.3238&sspn=0.121082,0.163377&output=kml&ie=utf-8&v=2.2&cv=5.1.3533.1731&hl=es&s=ANYYN7mavRIdykIohLmymboj224x5dHKzQ"><font color="#008000">Obtener más información de tvtrip.es &raquo;</font></a></td></tr><tr><td colspan="2"><br/><a href="http://maps.google.es/maps/place?cid=1366310379203798212&q=hoteles+haiti&hl=es&cd=9&cad=src:kml_balloon&ei=El5NS7u5J460yQTNyoyWDg&amp;dtab=2">Ver los 75 comentarios&#160;&#187;</a></td></tr></table><br/><br/>&#160;&#160;$[geDirections]]]></value>
+			</Data>
+			<Data name="contents">
+				<value>Mercure+Hotel+Hotel+Hotels - Hotel+Hoteles+Hotel - Family+Hotel - Familiar+Business+Motels &amp;amp; Hotels+Travel - Hotels+Hotels+Inns+Lodge+Lodging+Resorts+Travel+Vacation+Hotels+Travel - Hotels+Hotels 3-stars+Mercure - Accor Hotels Hotels</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-69.885465,18.473513,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder>
+		<name>&lt;nobr&gt;&lt;font color=&quot;red&quot;&gt;1&lt;/font&gt;&amp;nbsp;&lt;a href=&quot;http://maps.google.es/maps?q=hoteles+haiti&amp;amp;sll=18.5484,-72.3238&amp;amp;sspn=0.121082,0.163377&amp;amp;ie=UTF8&amp;amp;v=2.2&amp;amp;cv=5.1.3533.1731&amp;amp;hl=es&amp;amp;sa=N&amp;amp;output=kml&amp;amp;start=10&quot;&gt;2&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://maps.google.es/maps?q=hoteles+haiti&amp;amp;sll=18.5484,-72.3238&amp;amp;sspn=0.121082,0.163377&amp;amp;ie=UTF8&amp;amp;v=2.2&amp;amp;cv=5.1.3533.1731&amp;amp;hl=es&amp;amp;sa=N&amp;amp;output=kml&amp;amp;start=20&quot;&gt;3&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://maps.google.es/maps?q=hoteles+haiti&amp;amp;sll=18.5484,-72.3238&amp;amp;sspn=0.121082,0.163377&amp;amp;ie=UTF8&amp;amp;v=2.2&amp;amp;cv=5.1.3533.1731&amp;amp;hl=es&amp;amp;sa=N&amp;amp;output=kml&amp;amp;start=30&quot;&gt;4&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;http://maps.google.es/maps?q=hoteles+haiti&amp;amp;sll=18.5484,-72.3238&amp;amp;sspn=0.121082,0.163377&amp;amp;ie=UTF8&amp;amp;v=2.2&amp;amp;cv=5.1.3533.1731&amp;amp;hl=es&amp;amp;sa=N&amp;amp;output=kml&amp;amp;start=10&quot;&gt;&amp;gt;&lt;/a&gt;&amp;nbsp;&lt;/nobr&gt;</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Folder>
+	<Folder>
+		<name>&lt;div style=&quot;background-color:#FFF8DD&quot;&gt;Enlaces patrocinados&lt;/div&gt;</name>
+		<open>1</open>
+		<Snippet maxLines="4"><![CDATA[<html><div style="background-color:#FFF8DD"><a href="http://www.google.com/aclk?sa=l&amp;ai=CcItmEl5NS7-2KJG88gTF_9COC6jogYEBrIf0mAz2jNQuEAEg7tyoD1CikJHG-P____8BYM0CoAGet7j1A8gBAakCH4hYxyaqbT6qBBxP0NVD7c-hMkp54EMCbmLFeukMufLcWF3liDL0&amp;num=2&amp;sig=AGiWqtystpY9KHXuVuVKTw6OEDV2uDtAVA&amp;q=http://www.hotelium.com/%3Flabel%3DSTATES01-01">&lt;b&gt;Hotels Haiti&lt;/b&gt;</a></div><div style="background-color:#FFF8DD;color:#008000">www.hotelium.com/</div><nobr><div style="background-color:#FFF8DD">We have complete offer of &lt;b&gt;hotels&lt;/b&gt;.</div><div style="background-color:#FFF8DD">Book online. Best Price Guaranted!</div></nobr></html>]]></Snippet>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Folder>
+</Folder>
+</kml>

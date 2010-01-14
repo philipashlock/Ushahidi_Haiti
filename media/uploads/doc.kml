@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Potentially Affected Population</name>
+	<color>bdffffff</color>
+	<Icon>
+		<href>files/wfp214562.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>18.85528681494155</north>
+		<south>18.12284546838203</south>
+		<east>-72.12419644002864</east>
+		<west>-73.2140758399473</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
