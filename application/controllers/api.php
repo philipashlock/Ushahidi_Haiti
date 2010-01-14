@@ -26,7 +26,7 @@ class Api_Controller extends Controller {
 	*/
 	function __construct(){
 		$this->db = new Database;
-		$this->list_limit = '20';
+		$this->list_limit = '1000';
 		$this->responseType = 'json';
 	}
 	
