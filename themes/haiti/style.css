@@ -50,3 +50,7 @@ div.submit-incident a{
 	.mm-flickr a { float:left; margin:8px; display:block; border:2px solid #0925c2; }
 
 	div.searchForm_gsvsc { display:none; }
+	
+	.swatch { width:33px; margin-right:12px; }
+		.child {}
+	.cat-title { font-size:11px; }

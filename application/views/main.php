@@ -28,7 +28,7 @@
 							</div>
 						
 							<ul class="category-filters">
-								<li><a class="active" id="cat_0" href="#"><div class="swatch" style="background-color:#<?php echo $default_map_all;?>"></div><div class="category-title">All Categories</div></a></li>
+								<li><a class="active" id="cat_0" href="#"><div class="swatch" style="background-color:#<?php echo $default_map_all;?>"></div><div class="cat-title">All Categories</div></a></li>
 								<?php
                                                                         //print_r($categories);
                                                                         foreach ($categories as $category => $category_info)
@@ -38,11 +38,11 @@
                                                                                 $category_image = $category_info[2];
                                                                                 //echo '<li><a href="#" id="cat_'. $category .'"><div class="swatch" style="background-color:#'.$category_color.'"></div><div class="category-title">'.$category_title.'</div></a></li>';
                                                                                 if( !empty($category_image)){
-                                                                            echo '<li><a href="#" id="cat_'. $category .'"><div class="swatch" style="padding-right:12px;"><img src="'.url::base()."media/uploads/".$category_image.'" border="0"></div>
-                                                                                <div>'.$category_title.'</div></a></li>';
+                                                                            echo '<li><a href="#" id="cat_'. $category .'"><div class="swatch"><img src="'.url::base()."media/uploads/".$category_image.'" border="0"></div>
+                                                                                <div class="cat-title">'.$category_title.'</div></a></li>';
                                                                         }else{
                                                                             echo '<li><a href="#" id="cat_'. $category .'"><div class="swatch" style="background-color:#'.$category_color.'"></div>
-                                                                                <div>'.$category_title.'</div></a></li>';
+                                                                                <div class="cat-title">'.$category_title.'</div></a></li>';
                                                                         }
 
 
@@ -57,10 +57,10 @@
 												//echo '<li style="padding-left:20px;"><a href="#" id="cat_'. $child .'"><div class="swatch" style="background-color:#'.$child_color.'"></div><div class="category-title">'.$child_title.'</div></a></li>';
 												
 												if( !empty($child_image)){
-													echo '<li style="padding-left:20px;"><a href="#" id="cat_'. $child .'"><div class="swatch" style="padding-right:12px;"><img src="'.url::base()."media/uploads/".$child_image.'" border="0"></div>
-												    <div>'.$child_title.'</div></a></li>';
+													echo '<li style="padding-left:20px;"><a href="#" id="cat_'. $child .'"><div class="swatch child"><img src="'.url::base()."media/uploads/".$child_image.'" border="0"></div>
+												    <div class="cat-title">'.$child_title.'</div></a></li>';
 												}else{
-													echo '<li style="padding-left:20px;"><a href="#" id="cat_'. $child .'"><div class="swatch" style="background-color:#'.$child_color.'"></div><div>'.$child_title.'</div></a></li>';
+													echo '<li style="padding-left:20px;"><a href="#" id="cat_'. $child .'"><div class="swatch child" style="background-color:#'.$child_color.'"></div><div class="cat-title">'.$child_title.'</div></a></li>';
 												}												
 											}
 										//}
