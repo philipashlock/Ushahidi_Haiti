@@ -32,7 +32,7 @@ class Feed_Controller extends Controller
 		
 		// How Many Items Should We Retrieve?
 		$limit = ( isset($_GET['l']) && !empty($_GET['l'])
-		 	&& (int) $_GET['l'] <= 200)
+		 	&& (int) $_GET['l'] <= 1000)
 			? (int) $_GET['l'] : 20;
 		
 		// Start at which page?
