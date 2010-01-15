@@ -572,8 +572,10 @@ class Api_Controller extends Controller {
 		$categories = json_decode($this->_categories());
 		$categories = $categories->payload->categories;
 		$category_colors = array();
+		$category_icons = array();
 		foreach($categories as $category) {
 			$category_colors[$category->category->id] = $category->category->color;
+			$category_icons[$category->category->id] = $category->category->icon;
 		}
 		
 		// Finally, grab the incidents
@@ -609,6 +611,7 @@ class Api_Controller extends Controller {
 			
 			$category_id = $incident_categories[$incident->incidentid][0]; // Could be multiple categories. Pick the first one.
 			$hex_color = $category_colors[$category_id];
+			$the_icon = $category_icons[$category_id];
 			// Color for KML is not the traditional HTML Hex of (rrggbb). It's (aabbggrr). aa = alpha or transparency
 			$color = 'FF'.$hex_color{4}.$hex_color{5}.$hex_color{2}.$hex_color{3}.$hex_color{0}.$hex_color{1};
 			
@@ -624,18 +627,13 @@ class Api_Controller extends Controller {
 				<Style>
 					<IconStyle>
 						<Icon>
-							<href>'.url::base().'media/img/color_icon.php?c='.$hex_color.'</href>
+							<href>'.url::base().'media/uploads/'.$the_icon.'</href>
 						</Icon>
 					</IconStyle>
-					<LineStyle>
-						<color>'.$color.'</color>
-						<width>2</width>
-					</LineStyle>
 				</Style>
 				<Point>
 					<extrude>1</extrude>
-					<altitudeMode>relativeToGround</altitudeMode>
-					<coordinates>'.$incident->locationlongitude.','.$incident->locationlatitude.','.$incident_altitude[$incident->incidentid].'</coordinates>
+					<coordinates>'.$incident->locationlongitude.','.$incident->locationlatitude.'</coordinates>
 				</Point>
 			</Placemark>'."\n";
 			
@@ -1012,7 +1010,7 @@ class Api_Controller extends Controller {
 
 		//find incidents
 		$query = "SELECT id, category_title AS title, category_description AS 
-				description, category_color AS color FROM `category` WHERE 
+				description, category_color AS color, category_image as icon FROM `category` WHERE 
 				category_visible = 1 ORDER BY id DESC";
 
 		$items = $this->db->query($query);
