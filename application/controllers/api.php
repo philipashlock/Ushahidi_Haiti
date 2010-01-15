@@ -610,9 +610,15 @@ class Api_Controller extends Controller {
 			// Color for KML is not the traditional HTML Hex of (rrggbb). It's (aabbggrr). aa = alpha or transparency
 			$color = 'FF'.$hex_color{4}.$hex_color{5}.$hex_color{2}.$hex_color{3}.$hex_color{0}.$hex_color{1};
 			
+			//$title = str_replace('&amp;','&',str_replace('&','&amp;',$incident->incidenttitle));
+			//$desc = str_replace('&amp;','&',str_replace('&','&amp;',$incident->incidentdescription));
+			
+			$title = htmlspecialchars($incident->incidenttitle);
+			$desc = htmlspecialchars($incident->incidentdescription);
+			
 			$kml .= '<Placemark>
-				<name>'.$incident->incidenttitle.'</name>
-				<description>'.$incident->incidentdescription.'</description>
+				<name>'.$title.'</name>
+				<description>'.$desc.'</description>
 				<Style>
 					<IconStyle>
 						<Icon>
