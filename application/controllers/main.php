@@ -258,8 +258,42 @@ class Main_Controller extends Template_Controller {
 				"-" . date('t', mktime(0,0,0,$active_month,1))." 23:59:59");
 		}
 		
+		/** HARDCODED SLIDER SET UP **/
+		// We'll Hardcode in the Start/End Dates
+		$timeframe_start = strtotime("2010-01-12", 0);
+		$timeframe_stop = strtotime(date("Y-m-d"), 0);
+		$active_startDate = $timeframe_start;
+		$active_endDate = $timeframe_stop+86399;
+		$days = floor(($timeframe_stop - $timeframe_start) / 86400);
+		$startDate = "<optgroup label=\"2010\">";
+		$endDate = "<optgroup label=\"2010\">";
+		for ($i=0; $i <= $days; $i++)
+		{	
+			$startDate .= "<option value=\"".$timeframe_start."\"";
+				if ($i==0)
+				{
+					$startDate .= " selected=\"selected\" ";
+				}
+			$startDate .= ">" . date('M j', $timeframe_start) . " 2010</option>";
+
+			$timeframe_stop = $timeframe_start+86399;
+			$endDate .= "<option value=\"".$timeframe_stop."\"";
+				if ($i==$days)
+				{
+					$endDate .= " selected=\"selected\" ";
+				}
+			$endDate .= ">" . date('M j', $timeframe_stop) . " 2010</option>";
+
+			$timeframe_start = $timeframe_start + 86400;
+		}
+		$startDate .= "</optgroup>";
+		$endDate .= "</optgroup>";
+		
+		/** OLD SLIDER SET UP **/
         // Next, Get the Range of Years
-        $query = $db->query('SELECT DATE_FORMAT(incident_date, \'%Y\') AS incident_date FROM incident WHERE incident_active = 1 GROUP BY DATE_FORMAT(incident_date, \'%Y\') ORDER BY incident_date');
+// Uncomment $query line
+//        $query = $db->query('SELECT DATE_FORMAT(incident_date, \'%Y\') AS incident_date FROM incident WHERE incident_active = 1 GROUP BY DATE_FORMAT(incident_date, \'%Y\') ORDER BY incident_date');
+		$query = array();
         foreach ($query as $slider_date)
         {
 			$years = $slider_date->incident_date;
