@@ -101,6 +101,14 @@
 		   ui_click: true
 		}	
 		<?php echo $js . "\n"; ?>
+		
+		// Language Switcher
+		$(function(){
+			$("#language-switch").hover(
+        		function(){ $(this).addClass("on"); },
+            	function(){ $(this).removeClass("on")}
+        	);
+		});
 	</script>
 	
 	<?php
@@ -130,6 +138,16 @@
 </head>
 
 <body id="page">
+				<div id="language-switch">
+                   <h3>Select Language</h3>
+                   <p>
+                        <a href="#" id="cp_HT"><span><img src="themes/haiti/ht.png" align="left" /></span>Kreyol (CP)</a>
+                        <a href="#" id="fr_FR"><span><img src="themes/haiti/fr.png" align="left" /></span>Français (FR)</a>
+                        <a class="active" href="#" id="es_UY"><span><img src="themes/haiti/es.png" align="left" /></span>Español (UY)</a>
+                        <a href="#" id="en_US"><span><img src="themes/haiti/us.png" align="left" /></span>English (US)</a>
+                   </p>
+                                
+                </div>
 	<!-- wrapper -->
 	<div class="rapidxwpr floatholder">
 
@@ -152,6 +170,7 @@
 						</select>
 					</form>
 				</div>
+                
 				<!-- / languages -->
 			
 				<!-- searchform -->
