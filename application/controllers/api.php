@@ -382,6 +382,7 @@ class Api_Controller extends Controller {
 		header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 		$mime = "";
 		if($this->responseType == 'xml') header("Content-type: text/xml");
+
 		
 		print $ret;
 		
@@ -558,6 +559,7 @@ class Api_Controller extends Controller {
 	* FIXME: This could probably be done in less than >5 foreach loops
 	*/
 	function _3dkml(){
+		header("Content-Type: application/vnd.google-earth.kml+xml");
 		$kml = '<?xml version="1.0" encoding="UTF-8"?>
 		<kml xmlns="http://earth.google.com/kml/2.2">
 		<Document>
